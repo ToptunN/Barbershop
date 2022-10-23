@@ -1,0 +1,19 @@
+.root{
+--color-gray: #303030;
+--text-color: #555;
+--link-color: #FF6C00;
+}
+.barbershop-header,
+.hero,
+ {
+   background-color: #191C26;
+}
+head body header main{}
+
+.header-navigation a:hover,
+.header-navigation a:visited {
+    color: #FF6C00;
+}
+li{
+  
+}
